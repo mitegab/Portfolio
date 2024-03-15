@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de2b0b05-6199-4c55-bc0b-5373b3a656a2" name="Changes" comment="added the nav bar">
+    <list default="true" id="de2b0b05-6199-4c55-bc0b-5373b3a656a2" name="Changes" comment="title and professional summary">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -64,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710423968066</updated>
-      <workItem from="1710424000414" duration="4566000" />
+      <workItem from="1710424000414" duration="5341000" />
     </task>
     <task id="LOCAL-00001" summary="html, css and images refactored.">
       <option name="closed" value="true" />
@@ -82,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710427864532</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="title and professional summary">
+      <option name="closed" value="true" />
+      <created>1710429185296</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710429185296</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +101,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="html, css and images refactored." />
     <MESSAGE value="added the nav bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the nav bar" />
+    <MESSAGE value="title and professional summary" />
+    <option name="LAST_COMMIT_MESSAGE" value="title and professional summary" />
   </component>
 </project>
